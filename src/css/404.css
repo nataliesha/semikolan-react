@@ -9,7 +9,8 @@ DRIBBBLE: https://dribbble.com/shots/4330167-404-Page-Lost-In-Space
 */
 
 @import url('https://fonts.googleapis.com/css?family=Dosis:300,400,500');
-
+/* nothing to add
+it was great*/
 @-moz-keyframes rocket-movement { 100% {-moz-transform: translate(1200px,-600px);} }
 @-webkit-keyframes rocket-movement {100% {-webkit-transform: translate(1200px,-600px); } }
 @keyframes rocket-movement { 100% {transform: translate(1200px,-600px);} }
