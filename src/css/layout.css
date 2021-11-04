@@ -18,6 +18,16 @@
         --Green: #64ffda;
         --consolas: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     }
+    ::selection {
+	color: #fff;
+	background-color: var(--Green);
+}
+
+    /* for firefox */
+    ::moz-selection {
+	color: #fff;
+	background-color: var(--Green);
+}
     
     a:hover,
     a:active,
